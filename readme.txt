@@ -1,0 +1,1 @@
+this program below calculates the aarea of the rectangle. this program tells the user to input some vaues for the length and the breadth
